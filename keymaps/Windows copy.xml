@@ -26,6 +26,10 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -43,6 +47,7 @@
   <action id="GotoBookmark5" />
   <action id="GotoBookmark6" />
   <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
   <action id="GotoLine" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl o" />
